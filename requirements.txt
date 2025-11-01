@@ -1,0 +1,9 @@
+matplotlib
+opencv-python
+scipy
+scikit-learn
+timm
+remote_pdb
+psycopg2
+hdbscan
+geom_median
